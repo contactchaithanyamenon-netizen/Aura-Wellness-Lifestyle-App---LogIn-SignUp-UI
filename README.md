@@ -1,6 +1,6 @@
 **Aura (Wellness & Lifestyle App) - LogIn & Signup Screens**
 
-**Overview: **
+**Overview:**
 Aura is a concept wellness app that helps users track habits, mood, and mindfulness. This Login and Signup screens built with Figma, focuses on simplicity, calm visual tone, and balanced hierarchy.
 Design Concept
 
