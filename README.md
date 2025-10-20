@@ -46,3 +46,5 @@ Figma – UI Design and Prototyping
 Coolors.co – Palette generation
 
 Contrast Checker – Accessibility verification
+
+**Prototype Link** : https://www.figma.com/design/Xl6S1l0nkBGVPm7mDK7qTZ/Login---Signup-UI---CM?node-id=0-1&t=dUkqq0ZMWZ8TkoBa-1
